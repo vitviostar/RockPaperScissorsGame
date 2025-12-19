@@ -1,0 +1,22 @@
+body {
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.game {
+    margin-top:30%;
+}
+.game p {
+font-size: 4em;
+}
+.game button {
+    font-size: 4em;
+}
+.game button:hover {
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+}
