@@ -10,13 +10,14 @@ body {
     margin-top:30%;
 }
 .game p {
-font-size: 4em;
+font-size: 3em;
 }
 .game button {
-    font-size: 4em;
+    font-size: 3em;
 }
 .game button:hover {
     text-decoration: underline;
     background-color: black;
     color: white;
+
 }
